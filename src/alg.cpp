@@ -14,6 +14,7 @@ return true;
 }
 
 
+
 uint64_t nPrime(uint64_t n) {
 int p = 0;
 int count = 0;
